@@ -1,16 +1,8 @@
-# gitskills
-Creating a new branch is quick.
-modify dev branch
-
-<<<<<<< HEAD
-Creating a new branch is quick & simple. master modification
-Creating a new branch is quick AND simple. add a feature1 branch
->>>>>>> feature1
-
-<<<<<<< Updated upstream
-issue-101
-=======
-stash
->>>>>>> Stashed changes
+Stashed changes
 
 stash sample2
+
+ssss
+
+dd
+>>>>>>> 81e7f739f03801e1b8a0096b434fc6ccd82ce5cd
