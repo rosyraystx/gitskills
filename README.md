@@ -1,7 +1,1 @@
-Stashed changes
-
-stash sample2
-
-ssss
-
-dd
+test 1
